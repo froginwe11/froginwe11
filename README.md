@@ -8,8 +8,6 @@
 
 毕设成品展示 <https://github.com/froginwe11?tab=stars>
 
-毕设团队主页 <https://bysj2022.gitee.io>
-
 演示视频 <https://space.bilibili.com/1914282864>
 
 ## 关于我们
