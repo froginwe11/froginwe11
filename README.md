@@ -6,9 +6,7 @@
 
 ## 案例展示
 
-毕设成品展示 
-- <https://github.com/froginwe11?tab=stars>
-- <https://gitee.com/organizations/bysj2022/projects>
+毕设成品展示 <https://github.com/froginwe11?tab=stars>
 
 毕设团队主页 <https://bysj2022.gitee.io>
 
