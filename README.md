@@ -4,6 +4,9 @@
 > 毕设成品或定制请联系微信:csbysj2020 或 ACE2487 
 > 加好友请表明来意, 备注毕设
 
+![扫一扫加我微信](./qrcode2.jpg)
+![扫一扫加我微信](./qrcode.jpg)
+
 ## 案例展示
 
 毕设成品展示 <https://github.com/froginwe11?tab=stars> or <https://gitee.com/frogInWell/projects>
