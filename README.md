@@ -1,10 +1,11 @@
 
 # 计算机毕业设计定制
 
-> 毕设成品或定制请联系微信:csbysj2020 或 ACE2487 
+> 毕设成品或定制请联系微信: `csbysj2020` 或 `ACE2487`
 > 加好友请表明来意, 备注毕设
 
 ![扫一扫加我微信](./qrcode2.jpg)
+<span style="display:inline-block;margin:0 10px;"></span>
 ![扫一扫加我微信](./qrcode.jpg)
 
 ## 案例展示
