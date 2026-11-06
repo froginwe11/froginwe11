@@ -28,7 +28,7 @@
 | [019 基于 Scrapy 的汽车销量数据分析系统](https://github.com/froginwe11/car-sales-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1t44b6aEUS/) | [成品页](https://bishe.suilang.net/products/car-sales-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZdqag==) |
 | [018 基于 Django 的城市空气质量监测分析系统](https://github.com/froginwe11/aqi-monitor-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1zr446VEuq/) | [成品页](https://bishe.suilang.net/products/aqi-monitor-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZZraA==) |
 | [017 基于 PyTorch 的果蔬识别与计价系统](https://github.com/froginwe11/pytorch-fruit-checkout_share) | Python · PyTorch | [视频](https://www.bilibili.com/video/BV1Ng4t6sEff/) | [成品页](https://bishe.suilang.net/products/pytorch-fruit-checkout) · [获取](https://mbd.pub/o/bread/YZaWlZZqag==) |
-| [016 基于文本相似度的学生作业查重系统](https://bishe.suilang.net/products/text-plagiarism-checker)（展示仓库待上线） | Python · Django | [视频](https://www.bilibili.com/video/BV13B4t6NE1r/) | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) · [获取](https://mbd.pub/o/bread/YZaWlZZqZw==) |
+| [016 基于文本相似度的学生作业查重系统](https://github.com/froginwe11/text-plagiarism-checker_share) | Python · Django | [视频](https://www.bilibili.com/video/BV13B4t6NE1r/) | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) · [获取](https://mbd.pub/o/bread/YZaWlZZqZw==) |
 
 > 展示仓库只公开项目说明、技术架构、实验结论与运行截图；完整源码与全套文档通过上表的「获取」或成品页取得。
 
@@ -58,11 +58,11 @@
 | 009 | 基于 Django 的 B 站弹幕情感分析系统 | Python · Django · jieba | [仓库](https://github.com/froginwe11/django-danmaku-sentiment_share) | [成品页](https://bishe.suilang.net/products/django-danmaku-sentiment) |
 | 010 | 基于 Django 的基金净值分析与可视化系统 | Python · Django · ECharts | [仓库](https://github.com/froginwe11/django-fund-nav-analytics_share) | [成品页](https://bishe.suilang.net/products/django-fund-nav-analytics) |
 | 011 | 基于大模型接口的校园智能问答系统 | Python · Django · jieba | [仓库](https://github.com/froginwe11/django-campus-qa_share) | [成品页](https://bishe.suilang.net/products/django-campus-qa) |
-| 012 | 基于 PyTorch 的垃圾分类识别系统 | Python · PyTorch · torchvision | 待上线 | [成品页](https://bishe.suilang.net/products/pytorch-trash-classifier) |
-| 013 | 基于 SpringBoot 的图书管理系统 | Java 17 · Spring Boot 3 · Spring Data JPA | 待上线 | [成品页](https://bishe.suilang.net/products/springboot-library) |
-| 014 | 基于 SpringBoot 的酒店客房预订与房态管理系统 | Java 17 · Spring Boot 3 · Spring Data JPA | 待上线 | [成品页](https://bishe.suilang.net/products/springboot-hotel-pms) |
+| 012 | 基于 PyTorch 的垃圾分类识别系统 | Python · PyTorch · torchvision | [仓库](https://github.com/froginwe11/pytorch-trash-classifier_share) | [成品页](https://bishe.suilang.net/products/pytorch-trash-classifier) |
+| 013 | 基于 SpringBoot 的图书管理系统 | Java 17 · Spring Boot 3 · Spring Data JPA | [仓库](https://github.com/froginwe11/springboot-library_share) | [成品页](https://bishe.suilang.net/products/springboot-library) |
+| 014 | 基于 SpringBoot 的酒店客房预订与房态管理系统 | Java 17 · Spring Boot 3 · Spring Data JPA | [仓库](https://github.com/froginwe11/springboot-hotel-pms_share) | [成品页](https://bishe.suilang.net/products/springboot-hotel-pms) |
 | 015 | 基于协同过滤的电影推荐系统 | Python · Django · NumPy | [仓库](https://github.com/froginwe11/cf-movie-recommender_share) | [成品页](https://bishe.suilang.net/products/cf-movie-recommender) |
-| 016 | 基于文本相似度的学生作业查重系统 | Python · Django · jieba | 待上线 | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) |
+| 016 | 基于文本相似度的学生作业查重系统 | Python · Django · jieba | [仓库](https://github.com/froginwe11/text-plagiarism-checker_share) | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) |
 | 017 | 基于 PyTorch 的果蔬识别与计价系统 | Python · PyTorch · torchvision | [仓库](https://github.com/froginwe11/pytorch-fruit-checkout_share) | [成品页](https://bishe.suilang.net/products/pytorch-fruit-checkout) |
 | 018 | 基于 Django 的城市空气质量监测分析系统 | Python · Django · pandas | [仓库](https://github.com/froginwe11/aqi-monitor-analytics_share) | [成品页](https://bishe.suilang.net/products/aqi-monitor-analytics) |
 | 019 | 基于 Scrapy 的汽车销量数据分析系统 | Python · Django · Scrapy | [仓库](https://github.com/froginwe11/car-sales-analytics_share) | [成品页](https://bishe.suilang.net/products/car-sales-analytics) |
@@ -96,7 +96,7 @@ MySQL · Python · Django · ECharts · NumPy · openpyxl · jieba · pandas · 
 
 ## 更新
 
-- 2026-11-06：重写主页，同步 23 套成品的成品页与自助获取入口；19 个展示仓库已上线，其余陆续更新
+- 2026-11-06：重写主页，同步 23 套成品的成品页与自助获取入口；23 个展示仓库已上线，其余陆续更新
 - 新增成品后，主页与展示仓库会同步更新
 
 ---
