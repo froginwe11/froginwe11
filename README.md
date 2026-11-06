@@ -19,18 +19,18 @@
 
 ## 最近上架
 
-| 成品 | 技术栈 | 演示视频 | 入口 |
+| 成品 | 技术栈 | 视频 | 入口 |
 | --- | --- | --- | --- |
-| [023 基于 SpringBoot 的培训机构排课与考勤系统](https://github.com/froginwe11/edu-schedule_share) | Java · SpringBoot · Spring Data JPA | [视频](https://www.bilibili.com/video/BV1Ez4i6iEb1/) | [成品页](https://bishe.suilang.net/products/edu-schedule) · [自助获取](https://mbd.pub/o/bread/YZaWlZhvaw==) |
-| [022 基于 Scrapy 与 Django 的农产品价格监测分析系统](https://github.com/froginwe11/agri-price-monitor_share) | Python · Django · Scrapy | [视频](https://www.bilibili.com/video/BV1J4486nEuc/) | [成品页](https://bishe.suilang.net/products/agri-price-monitor) · [自助获取](https://mbd.pub/o/bread/YZaWlZZxaw==) |
-| [021 基于知识图谱的医学疾病问答与辅助诊断系统](https://github.com/froginwe11/medical-kg-qa_share) | Python · Django · ECharts | [视频](https://www.bilibili.com/video/BV16m4h6REKA/) | [成品页](https://bishe.suilang.net/products/medical-kg-qa) · [自助获取](https://mbd.pub/o/bread/YZaWlZdtaQ==) |
-| [020 基于 Django 的新闻舆情分析系统](https://github.com/froginwe11/django-news-opinion_share) | Python · Django · jieba | [视频](https://www.bilibili.com/video/BV1oS4b61Ek9/) | [成品页](https://bishe.suilang.net/products/django-news-opinion) · [自助获取](https://mbd.pub/o/bread/YZaWlZZyaQ==) |
-| [019 基于 Scrapy 的汽车销量数据分析系统](https://github.com/froginwe11/car-sales-analytics_share) | Python · Django · Scrapy | [视频](https://www.bilibili.com/video/BV1t44b6aEUS/) | [成品页](https://bishe.suilang.net/products/car-sales-analytics) · [自助获取](https://mbd.pub/o/bread/YZaWlZdqag==) |
-| [018 基于 Django 的城市空气质量监测分析系统](https://github.com/froginwe11/aqi-monitor-analytics_share) | Python · Django · pandas | [视频](https://www.bilibili.com/video/BV1zr446VEuq/) | [成品页](https://bishe.suilang.net/products/aqi-monitor-analytics) · [自助获取](https://mbd.pub/o/bread/YZaWlZZraA==) |
-| [017 基于 PyTorch 的果蔬识别与计价系统](https://github.com/froginwe11/pytorch-fruit-checkout_share) | Python · PyTorch · torchvision | [视频](https://www.bilibili.com/video/BV1Ng4t6sEff/) | [成品页](https://bishe.suilang.net/products/pytorch-fruit-checkout) · [自助获取](https://mbd.pub/o/bread/YZaWlZZqag==) |
-| [016 基于文本相似度的学生作业查重系统](https://bishe.suilang.net/products/text-plagiarism-checker)（展示仓库待上线） | Python · Django · jieba | [视频](https://www.bilibili.com/video/BV13B4t6NE1r/) | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) · [自助获取](https://mbd.pub/o/bread/YZaWlZZqZw==) |
+| [023 基于 SpringBoot 的培训机构排课与考勤系统](https://github.com/froginwe11/edu-schedule_share) | Java · SpringBoot | [视频](https://www.bilibili.com/video/BV1Ez4i6iEb1/) | [成品页](https://bishe.suilang.net/products/edu-schedule) · [获取](https://mbd.pub/o/bread/YZaWlZhvaw==) |
+| [022 基于 Scrapy 与 Django 的农产品价格监测分析系统](https://github.com/froginwe11/agri-price-monitor_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1J4486nEuc/) | [成品页](https://bishe.suilang.net/products/agri-price-monitor) · [获取](https://mbd.pub/o/bread/YZaWlZZxaw==) |
+| [021 基于知识图谱的医学疾病问答与辅助诊断系统](https://github.com/froginwe11/medical-kg-qa_share) | Python · Django | [视频](https://www.bilibili.com/video/BV16m4h6REKA/) | [成品页](https://bishe.suilang.net/products/medical-kg-qa) · [获取](https://mbd.pub/o/bread/YZaWlZdtaQ==) |
+| [020 基于 Django 的新闻舆情分析系统](https://github.com/froginwe11/django-news-opinion_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1oS4b61Ek9/) | [成品页](https://bishe.suilang.net/products/django-news-opinion) · [获取](https://mbd.pub/o/bread/YZaWlZZyaQ==) |
+| [019 基于 Scrapy 的汽车销量数据分析系统](https://github.com/froginwe11/car-sales-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1t44b6aEUS/) | [成品页](https://bishe.suilang.net/products/car-sales-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZdqag==) |
+| [018 基于 Django 的城市空气质量监测分析系统](https://github.com/froginwe11/aqi-monitor-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1zr446VEuq/) | [成品页](https://bishe.suilang.net/products/aqi-monitor-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZZraA==) |
+| [017 基于 PyTorch 的果蔬识别与计价系统](https://github.com/froginwe11/pytorch-fruit-checkout_share) | Python · PyTorch | [视频](https://www.bilibili.com/video/BV1Ng4t6sEff/) | [成品页](https://bishe.suilang.net/products/pytorch-fruit-checkout) · [获取](https://mbd.pub/o/bread/YZaWlZZqag==) |
+| [016 基于文本相似度的学生作业查重系统](https://bishe.suilang.net/products/text-plagiarism-checker)（展示仓库待上线） | Python · Django | [视频](https://www.bilibili.com/video/BV13B4t6NE1r/) | [成品页](https://bishe.suilang.net/products/text-plagiarism-checker) · [获取](https://mbd.pub/o/bread/YZaWlZZqZw==) |
 
-> 展示仓库只公开项目说明、技术架构、实验结论与运行截图；完整源码与全套文档通过上表的「自助获取」或成品页取得。
+> 展示仓库只公开项目说明、技术架构、实验结论与运行截图；完整源码与全套文档通过上表的「获取」或成品页取得。
 
 ## 每件成品交付什么
 
