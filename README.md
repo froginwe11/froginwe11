@@ -2,12 +2,12 @@
 
 <h1>沐知程序设计</h1>
 
-<p><strong>计算机毕业设计成品 ｜ 25 套可运行项目 ｜ 真实数据 · 完整文档 · 演示视频</strong></p>
+<p><strong>计算机毕业设计成品 ｜ 26 套可运行项目 ｜ 真实数据 · 完整文档 · 演示视频</strong></p>
 
 <p>
-<img alt="projects" src="https://img.shields.io/badge/projects-25-1f6feb" />
-<img alt="python" src="https://img.shields.io/badge/Python-22-3776AB" />
-<img alt="django" src="https://img.shields.io/badge/Django-22-092E20" />
+<img alt="projects" src="https://img.shields.io/badge/projects-26-1f6feb" />
+<img alt="python" src="https://img.shields.io/badge/Python-23-3776AB" />
+<img alt="django" src="https://img.shields.io/badge/Django-23-092E20" />
 <img alt="updated" src="https://img.shields.io/badge/updated-2026.11-2ea44f" />
 </p>
 
@@ -21,6 +21,7 @@
 
 | 成品 | 技术栈 | 视频 | 入口 |
 | --- | --- | --- | --- |
+| [026 基于微信小程序与 Django 的校园跑腿系统](https://github.com/froginwe11/campus-errand-mini_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1ZBW46eEYo/) | [成品页](https://bishe.suilang.net/products/campus-errand-mini) · [获取](https://mbd.pub/o/bread/YZaWlZ5saw==) |
 | [025 基于 YOLOv8 的视频流安全帽检测与预警系统](https://github.com/froginwe11/yolo-helmet-guard_share) | Python · YOLOv8 | [视频](https://www.bilibili.com/video/BV1nUWW6cELS/) | [成品页](https://bishe.suilang.net/products/yolo-helmet-guard) · [获取](https://mbd.pub/o/bread/YZaWlZ5qaA==) |
 | [024 基于 RAG 的技术文档知识库智能问答系统](https://github.com/froginwe11/rag-doc-qa_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1qT4761Ezp/) | [成品页](https://bishe.suilang.net/products/rag-doc-qa) · [获取](https://mbd.pub/o/bread/YZaWlZpyZw==) |
 | [023 基于 SpringBoot 的培训机构排课与考勤系统](https://github.com/froginwe11/edu-schedule_share) | Java · SpringBoot | [视频](https://www.bilibili.com/video/BV1Ez4i6iEb1/) | [成品页](https://bishe.suilang.net/products/edu-schedule) · [获取](https://mbd.pub/o/bread/YZaWlZhvaw==) |
@@ -28,7 +29,6 @@
 | [021 基于知识图谱的医学疾病问答与辅助诊断系统](https://github.com/froginwe11/medical-kg-qa_share) | Python · Django | [视频](https://www.bilibili.com/video/BV16m4h6REKA/) | [成品页](https://bishe.suilang.net/products/medical-kg-qa) · [获取](https://mbd.pub/o/bread/YZaWlZdtaQ==) |
 | [020 基于 Django 的新闻舆情分析系统](https://github.com/froginwe11/django-news-opinion_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1oS4b61Ek9/) | [成品页](https://bishe.suilang.net/products/django-news-opinion) · [获取](https://mbd.pub/o/bread/YZaWlZZyaQ==) |
 | [019 基于 Scrapy 的汽车销量数据分析系统](https://github.com/froginwe11/car-sales-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1t44b6aEUS/) | [成品页](https://bishe.suilang.net/products/car-sales-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZdqag==) |
-| [018 基于 Django 的城市空气质量监测分析系统](https://github.com/froginwe11/aqi-monitor-analytics_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1zr446VEuq/) | [成品页](https://bishe.suilang.net/products/aqi-monitor-analytics) · [获取](https://mbd.pub/o/bread/YZaWlZZraA==) |
 
 > 展示仓库只公开项目说明、技术架构、实验结论与运行截图；完整源码与全套文档通过上表的「获取」或成品页取得。
 
@@ -40,7 +40,7 @@
 - 运行截图与 B 站演示视频
 - 论文里的数字都能追溯到原始数据；数据口径与演示数据的生成方式在文档中如实标注
 
-## 全部 25 套成品
+## 全部 26 套成品
 
 <details>
 <summary>展开查看全部成品（按编号）</summary>
@@ -72,12 +72,13 @@
 | 023 | 基于 SpringBoot 的培训机构排课与考勤系统 | Java · SpringBoot · Spring Data JPA | [仓库](https://github.com/froginwe11/edu-schedule_share) | [成品页](https://bishe.suilang.net/products/edu-schedule) |
 | 024 | 基于 RAG 的技术文档知识库智能问答系统 | Python · Django · RAG | [仓库](https://github.com/froginwe11/rag-doc-qa_share) | [成品页](https://bishe.suilang.net/products/rag-doc-qa) |
 | 025 | 基于 YOLOv8 的视频流安全帽检测与预警系统 | Python · YOLOv8 · PyTorch | [仓库](https://github.com/froginwe11/yolo-helmet-guard_share) | [成品页](https://bishe.suilang.net/products/yolo-helmet-guard) |
+| 026 | 基于微信小程序与 Django 的校园跑腿系统 | Python · Django · 微信小程序 | [仓库](https://github.com/froginwe11/campus-errand-mini_share) | [成品页](https://bishe.suilang.net/products/campus-errand-mini) |
 
 </details>
 
 ## 技术栈覆盖
 
-MySQL · Python · Django · ECharts · NumPy · openpyxl · jieba · pandas · Pillow · Scrapy · PyTorch · Spring Data JPA · RAG · torchvision · scikit-learn · Playwright · 朴素贝叶斯 · 大模型接口
+Python · Django · MySQL · ECharts · NumPy · openpyxl · jieba · pandas · Pillow · Scrapy · PyTorch · Spring Data JPA · RAG · torchvision · scikit-learn · Playwright · 朴素贝叶斯 · 大模型接口
 
 ## 获取与咨询
 
@@ -98,7 +99,7 @@ MySQL · Python · Django · ECharts · NumPy · openpyxl · jieba · pandas · 
 
 ## 更新
 
-- 2026-11-09：重写主页，同步 25 套成品的成品页与自助获取入口；25 个展示仓库已上线，其余陆续更新
+- 2026-11-09：重写主页，同步 26 套成品的成品页与自助获取入口；26 个展示仓库已上线，其余陆续更新
 - 新增成品后，主页与展示仓库会同步更新
 
 ---
