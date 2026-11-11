@@ -2,12 +2,12 @@
 
 <h1>沐知程序设计</h1>
 
-<p><strong>计算机毕业设计成品 ｜ 29 套可运行项目 ｜ 真实数据 · 完整文档 · 演示视频</strong></p>
+<p><strong>计算机毕业设计成品 ｜ 30 套可运行项目 ｜ 真实数据 · 完整文档 · 演示视频</strong></p>
 
 <p>
-<img alt="projects" src="https://img.shields.io/badge/projects-29-1f6feb" />
-<img alt="python" src="https://img.shields.io/badge/Python-26-3776AB" />
-<img alt="django" src="https://img.shields.io/badge/Django-26-092E20" />
+<img alt="projects" src="https://img.shields.io/badge/projects-30-1f6feb" />
+<img alt="python" src="https://img.shields.io/badge/Python-27-3776AB" />
+<img alt="django" src="https://img.shields.io/badge/Django-27-092E20" />
 <img alt="updated" src="https://img.shields.io/badge/updated-2026.11-2ea44f" />
 </p>
 
@@ -21,6 +21,7 @@
 
 | 成品 | 技术栈 | 视频 | 入口 |
 | --- | --- | --- | --- |
+| [030 基于 PyTorch 的手写作业识别与批改辅助系统](https://github.com/froginwe11/homework-grading_share) | Python · PyTorch | [视频](https://www.bilibili.com/video/BV1o6WL6eEYE/) | [成品页](https://bishe.suilang.net/products/homework-grading) · [获取](https://mbd.pub/o/bread/YZaWlptxaw==) |
 | [029 基于大模型接口的学生论文写作辅导助手](https://github.com/froginwe11/thesis-advisor_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1LDWM6yEEM/) | [成品页](https://bishe.suilang.net/products/thesis-advisor) · [获取](https://mbd.pub/o/bread/YZaWlplyZQ==) |
 | [028 基于深度学习的商品评论情感分析系统](https://github.com/froginwe11/comment-sentiment_share) | Python · PyTorch | [视频](https://www.bilibili.com/video/BV1AXWT6WE88/) | [成品页](https://bishe.suilang.net/products/comment-sentiment) · [获取](https://mbd.pub/o/bread/YZaWlpdybA==) |
 | [027 基于 PyTorch 的学生课堂专注度分析系统](https://github.com/froginwe11/classroom-focus_share) | Python · PyTorch | [视频](https://www.bilibili.com/video/BV19UW46ZEjs/) | [成品页](https://bishe.suilang.net/products/classroom-focus) · [获取](https://mbd.pub/o/bread/YZaWlZ9wZA==) |
@@ -28,7 +29,6 @@
 | [025 基于 YOLOv8 的视频流安全帽检测与预警系统](https://github.com/froginwe11/yolo-helmet-guard_share) | Python · YOLOv8 | [视频](https://www.bilibili.com/video/BV1nUWW6cELS/) | [成品页](https://bishe.suilang.net/products/yolo-helmet-guard) · [获取](https://mbd.pub/o/bread/YZaWlZ5qaA==) |
 | [024 基于 RAG 的技术文档知识库智能问答系统](https://github.com/froginwe11/rag-doc-qa_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1qT4761Ezp/) | [成品页](https://bishe.suilang.net/products/rag-doc-qa) · [获取](https://mbd.pub/o/bread/YZaWlZpyZw==) |
 | [023 基于 SpringBoot 的培训机构排课与考勤系统](https://github.com/froginwe11/edu-schedule_share) | Java · SpringBoot | [视频](https://www.bilibili.com/video/BV1Ez4i6iEb1/) | [成品页](https://bishe.suilang.net/products/edu-schedule) · [获取](https://mbd.pub/o/bread/YZaWlZhvaw==) |
-| [022 基于 Scrapy 与 Django 的农产品价格监测分析系统](https://github.com/froginwe11/agri-price-monitor_share) | Python · Django | [视频](https://www.bilibili.com/video/BV1J4486nEuc/) | [成品页](https://bishe.suilang.net/products/agri-price-monitor) · [获取](https://mbd.pub/o/bread/YZaWlZZxaw==) |
 
 > 展示仓库只公开项目说明、技术架构、实验结论与运行截图；完整源码与全套文档通过上表的「获取」或成品页取得。
 
@@ -40,7 +40,7 @@
 - 运行截图与 B 站演示视频
 - 论文里的数字都能追溯到原始数据；数据口径与演示数据的生成方式在文档中如实标注
 
-## 全部 29 套成品
+## 全部 30 套成品
 
 <details>
 <summary>展开查看全部成品（按编号）</summary>
@@ -76,6 +76,7 @@
 | 027 | 基于 PyTorch 的学生课堂专注度分析系统 | Python · PyTorch · YOLOv8 | [仓库](https://github.com/froginwe11/classroom-focus_share) | [成品页](https://bishe.suilang.net/products/classroom-focus) |
 | 028 | 基于深度学习的商品评论情感分析系统 | Python · PyTorch · Transformer | [仓库](https://github.com/froginwe11/comment-sentiment_share) | [成品页](https://bishe.suilang.net/products/comment-sentiment) |
 | 029 | 基于大模型接口的学生论文写作辅导助手 | Python · Django · RAG | [仓库](https://github.com/froginwe11/thesis-advisor_share) | [成品页](https://bishe.suilang.net/products/thesis-advisor) |
+| 030 | 基于 PyTorch 的手写作业识别与批改辅助系统 | Python · PyTorch · CRNN | [仓库](https://github.com/froginwe11/homework-grading_share) | [成品页](https://bishe.suilang.net/products/homework-grading) |
 
 </details>
 
@@ -102,7 +103,7 @@ Python · Django · MySQL · ECharts · NumPy · openpyxl · jieba · PyTorch ·
 
 ## 更新
 
-- 2026-11-10：重写主页，同步 29 套成品的成品页与自助获取入口；29 个展示仓库已上线，其余陆续更新
+- 2026-11-11：重写主页，同步 30 套成品的成品页与自助获取入口；30 个展示仓库已上线，其余陆续更新
 - 新增成品后，主页与展示仓库会同步更新
 
 ---
